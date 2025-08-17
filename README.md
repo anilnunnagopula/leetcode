@@ -17,4 +17,5 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/anilnunnagopula/leetcode/tree/master/0183-customers-who-never-order) |
+| [0197-rising-temperature](https://github.com/anilnunnagopula/leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
