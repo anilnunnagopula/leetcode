@@ -9,6 +9,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/anilnunnagopula/leetcode/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/anilnunnagopula/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -20,4 +21,8 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [0197-rising-temperature](https://github.com/anilnunnagopula/leetcode/tree/master/0197-rising-temperature) |
 | [0596-classes-with-at-least-5-students](https://github.com/anilnunnagopula/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/anilnunnagopula/leetcode/tree/master/3803-find-products-with-valid-serial-numbers) |
+## Array
+|  |
+| ------- |
+| [2432-number-of-zero-filled-subarrays](https://github.com/anilnunnagopula/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 <!---LeetCode Topics End-->
