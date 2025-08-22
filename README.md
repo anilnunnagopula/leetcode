@@ -32,9 +32,18 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anilnunnagopula/leetcode/tree/master/0022-generate-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anilnunnagopula/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anilnunnagopula/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anilnunnagopula/leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anilnunnagopula/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
