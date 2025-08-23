@@ -10,6 +10,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | ------- |
 | [1448-maximum-69-number](https://github.com/anilnunnagopula/leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/anilnunnagopula/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2649-count-total-number-of-colored-cells](https://github.com/anilnunnagopula/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Greedy
 |  |
 | ------- |
