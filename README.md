@@ -27,6 +27,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anilnunnagopula/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/anilnunnagopula/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3748-sort-matrix-by-diagonals](https://github.com/anilnunnagopula/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +51,12 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anilnunnagopula/leetcode/tree/master/0022-generate-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [3748-sort-matrix-by-diagonals](https://github.com/anilnunnagopula/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+## Matrix
+|  |
+| ------- |
+| [3748-sort-matrix-by-diagonals](https://github.com/anilnunnagopula/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 <!---LeetCode Topics End-->
