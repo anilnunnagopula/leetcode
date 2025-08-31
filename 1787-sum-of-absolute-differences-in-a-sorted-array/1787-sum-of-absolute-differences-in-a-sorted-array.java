@@ -23,8 +23,8 @@ class Solution {
                 ans[i]=i*nums[i]-pref[n-2];
             }
             else{
-                // ans[i]=suf[i+1]-nums[i]*(n-i-1)+pref[i-1]-nums[i]*i;
-                ans[i] = (nums[i] * i - pref[i-1]) + (suf[i+1] - nums[i] * (n - 1 - i));
+                ans[i]=suf[i+1]-nums[i]*(n-i-1)+nums[i]*i-pref[i-1];
+                // ans[i]=(nums[i]*i-pref[i-1])+(suf[i+1]-nums[i]*(n-1-i));
             }
         }
         return ans;
