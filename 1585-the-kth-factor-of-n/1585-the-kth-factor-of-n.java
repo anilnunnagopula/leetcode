@@ -11,7 +11,7 @@ class Solution {
             }
         }
         Collections.sort(l);
-        System.out.println(l);
+        // System.out.println(l);
         return k<=l.size()?l.get(k-1):-1;
     }
 }
