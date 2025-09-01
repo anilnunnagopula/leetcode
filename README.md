@@ -31,6 +31,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/anilnunnagopula/leetcode/tree/master/0189-rotate-array) |
+| [0414-third-maximum-number](https://github.com/anilnunnagopula/leetcode/tree/master/0414-third-maximum-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anilnunnagopula/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anilnunnagopula/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/anilnunnagopula/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -63,6 +64,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/anilnunnagopula/leetcode/tree/master/0414-third-maximum-number) |
 | [3748-sort-matrix-by-diagonals](https://github.com/anilnunnagopula/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
 |  |
