@@ -9,6 +9,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/anilnunnagopula/leetcode/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/anilnunnagopula/leetcode/tree/master/0223-rectangle-area) |
 | [0866-rectangle-overlap](https://github.com/anilnunnagopula/leetcode/tree/master/0866-rectangle-overlap) |
 | [1274-number-of-days-between-two-dates](https://github.com/anilnunnagopula/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1448-maximum-69-number](https://github.com/anilnunnagopula/leetcode/tree/master/1448-maximum-69-number) |
@@ -86,5 +87,6 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/anilnunnagopula/leetcode/tree/master/0223-rectangle-area) |
 | [0866-rectangle-overlap](https://github.com/anilnunnagopula/leetcode/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
