@@ -10,6 +10,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | ------- |
 | [0189-rotate-array](https://github.com/anilnunnagopula/leetcode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/anilnunnagopula/leetcode/tree/master/0223-rectangle-area) |
+| [0400-nth-digit](https://github.com/anilnunnagopula/leetcode/tree/master/0400-nth-digit) |
 | [0866-rectangle-overlap](https://github.com/anilnunnagopula/leetcode/tree/master/0866-rectangle-overlap) |
 | [1274-number-of-days-between-two-dates](https://github.com/anilnunnagopula/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1448-maximum-69-number](https://github.com/anilnunnagopula/leetcode/tree/master/1448-maximum-69-number) |
@@ -89,4 +90,8 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | ------- |
 | [0223-rectangle-area](https://github.com/anilnunnagopula/leetcode/tree/master/0223-rectangle-area) |
 | [0866-rectangle-overlap](https://github.com/anilnunnagopula/leetcode/tree/master/0866-rectangle-overlap) |
+## Binary Search
+|  |
+| ------- |
+| [0400-nth-digit](https://github.com/anilnunnagopula/leetcode/tree/master/0400-nth-digit) |
 <!---LeetCode Topics End-->
