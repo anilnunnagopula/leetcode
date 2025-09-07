@@ -31,6 +31,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [0584-find-customer-referee](https://github.com/anilnunnagopula/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/anilnunnagopula/leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/anilnunnagopula/leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [0620-not-boring-movies](https://github.com/anilnunnagopula/leetcode/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/anilnunnagopula/leetcode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/anilnunnagopula/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/anilnunnagopula/leetcode/tree/master/1827-invalid-tweets) |
