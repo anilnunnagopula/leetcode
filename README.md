@@ -35,6 +35,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [0620-not-boring-movies](https://github.com/anilnunnagopula/leetcode/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/anilnunnagopula/leetcode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/anilnunnagopula/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1670-patients-with-a-condition](https://github.com/anilnunnagopula/leetcode/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/anilnunnagopula/leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/anilnunnagopula/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/anilnunnagopula/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
