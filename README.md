@@ -31,6 +31,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [0584-find-customer-referee](https://github.com/anilnunnagopula/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/anilnunnagopula/leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/anilnunnagopula/leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [1827-invalid-tweets](https://github.com/anilnunnagopula/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/anilnunnagopula/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/anilnunnagopula/leetcode/tree/master/3803-find-products-with-valid-serial-numbers) |
 ## Array
