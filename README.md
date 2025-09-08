@@ -14,6 +14,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [0866-rectangle-overlap](https://github.com/anilnunnagopula/leetcode/tree/master/0866-rectangle-overlap) |
 | [1274-number-of-days-between-two-dates](https://github.com/anilnunnagopula/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anilnunnagopula/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/anilnunnagopula/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/anilnunnagopula/leetcode/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/anilnunnagopula/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anilnunnagopula/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
