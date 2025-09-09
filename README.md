@@ -41,6 +41,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [1811-fix-names-in-a-table](https://github.com/anilnunnagopula/leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/anilnunnagopula/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/anilnunnagopula/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/anilnunnagopula/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/anilnunnagopula/leetcode/tree/master/3803-find-products-with-valid-serial-numbers) |
 ## Array
 |  |
