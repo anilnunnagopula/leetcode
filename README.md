@@ -62,6 +62,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anilnunnagopula/leetcode/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/anilnunnagopula/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/anilnunnagopula/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1274-number-of-days-between-two-dates](https://github.com/anilnunnagopula/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anilnunnagopula/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -92,6 +93,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/anilnunnagopula/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/anilnunnagopula/leetcode/tree/master/0189-rotate-array) |
 ## Number Theory
 |  |
