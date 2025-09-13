@@ -11,6 +11,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [0168-excel-sheet-column-title](https://github.com/anilnunnagopula/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/anilnunnagopula/leetcode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/anilnunnagopula/leetcode/tree/master/0223-rectangle-area) |
+| [0326-power-of-three](https://github.com/anilnunnagopula/leetcode/tree/master/0326-power-of-three) |
 | [0400-nth-digit](https://github.com/anilnunnagopula/leetcode/tree/master/0400-nth-digit) |
 | [0866-rectangle-overlap](https://github.com/anilnunnagopula/leetcode/tree/master/0866-rectangle-overlap) |
 | [1274-number-of-days-between-two-dates](https://github.com/anilnunnagopula/leetcode/tree/master/1274-number-of-days-between-two-dates) |
@@ -112,4 +113,8 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0400-nth-digit](https://github.com/anilnunnagopula/leetcode/tree/master/0400-nth-digit) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/anilnunnagopula/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
