@@ -59,6 +59,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anilnunnagopula/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/anilnunnagopula/leetcode/tree/master/0409-longest-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anilnunnagopula/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## String
@@ -67,6 +68,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [0022-generate-parentheses](https://github.com/anilnunnagopula/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/anilnunnagopula/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/anilnunnagopula/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0387-first-unique-character-in-a-string](https://github.com/anilnunnagopula/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/anilnunnagopula/leetcode/tree/master/0409-longest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/anilnunnagopula/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1274-number-of-days-between-two-dates](https://github.com/anilnunnagopula/leetcode/tree/master/1274-number-of-days-between-two-dates) |
@@ -125,4 +127,12 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/anilnunnagopula/leetcode/tree/master/0657-robot-return-to-origin) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anilnunnagopula/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anilnunnagopula/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
