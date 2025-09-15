@@ -75,6 +75,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [0841-shortest-distance-to-a-character](https://github.com/anilnunnagopula/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1274-number-of-days-between-two-dates](https://github.com/anilnunnagopula/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anilnunnagopula/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/anilnunnagopula/leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [2496-count-days-spent-together](https://github.com/anilnunnagopula/leetcode/tree/master/2496-count-days-spent-together) |
 ## Sliding Window
 |  |
