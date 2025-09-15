@@ -33,6 +33,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | ------- |
 | [0183-customers-who-never-order](https://github.com/anilnunnagopula/leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/anilnunnagopula/leetcode/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/anilnunnagopula/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/anilnunnagopula/leetcode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/anilnunnagopula/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/anilnunnagopula/leetcode/tree/master/0595-big-countries) |
