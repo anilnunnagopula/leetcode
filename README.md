@@ -22,6 +22,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anilnunnagopula/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/anilnunnagopula/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2496-count-days-spent-together](https://github.com/anilnunnagopula/leetcode/tree/master/2496-count-days-spent-together) |
+| [2507-number-of-common-factors](https://github.com/anilnunnagopula/leetcode/tree/master/2507-number-of-common-factors) |
 | [2649-count-total-number-of-colored-cells](https://github.com/anilnunnagopula/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Greedy
 |  |
@@ -112,6 +113,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/anilnunnagopula/leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [2507-number-of-common-factors](https://github.com/anilnunnagopula/leetcode/tree/master/2507-number-of-common-factors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -141,4 +143,8 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anilnunnagopula/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/anilnunnagopula/leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
