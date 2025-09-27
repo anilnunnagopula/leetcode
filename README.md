@@ -13,6 +13,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [0223-rectangle-area](https://github.com/anilnunnagopula/leetcode/tree/master/0223-rectangle-area) |
 | [0326-power-of-three](https://github.com/anilnunnagopula/leetcode/tree/master/0326-power-of-three) |
 | [0400-nth-digit](https://github.com/anilnunnagopula/leetcode/tree/master/0400-nth-digit) |
+| [0830-largest-triangle-area](https://github.com/anilnunnagopula/leetcode/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/anilnunnagopula/leetcode/tree/master/0866-rectangle-overlap) |
 | [1274-number-of-days-between-two-dates](https://github.com/anilnunnagopula/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anilnunnagopula/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -54,6 +55,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | ------- |
 | [0189-rotate-array](https://github.com/anilnunnagopula/leetcode/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/anilnunnagopula/leetcode/tree/master/0414-third-maximum-number) |
+| [0830-largest-triangle-area](https://github.com/anilnunnagopula/leetcode/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/anilnunnagopula/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anilnunnagopula/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anilnunnagopula/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -124,6 +126,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/anilnunnagopula/leetcode/tree/master/0223-rectangle-area) |
+| [0830-largest-triangle-area](https://github.com/anilnunnagopula/leetcode/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/anilnunnagopula/leetcode/tree/master/0866-rectangle-overlap) |
 ## Binary Search
 |  |
