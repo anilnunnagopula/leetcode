@@ -54,6 +54,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/anilnunnagopula/leetcode/tree/master/0189-rotate-array) |
+| [0303-range-sum-query-immutable](https://github.com/anilnunnagopula/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/anilnunnagopula/leetcode/tree/master/0414-third-maximum-number) |
 | [0830-largest-triangle-area](https://github.com/anilnunnagopula/leetcode/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/anilnunnagopula/leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -121,6 +122,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/anilnunnagopula/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anilnunnagopula/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 ## Geometry
 |  |
@@ -153,4 +155,8 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/anilnunnagopula/leetcode/tree/master/2507-number-of-common-factors) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/anilnunnagopula/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
