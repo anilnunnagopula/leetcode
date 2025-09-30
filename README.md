@@ -53,6 +53,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/anilnunnagopula/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anilnunnagopula/leetcode/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/anilnunnagopula/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/anilnunnagopula/leetcode/tree/master/0414-third-maximum-number) |
@@ -159,4 +160,8 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/anilnunnagopula/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/anilnunnagopula/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
