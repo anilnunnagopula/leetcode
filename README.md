@@ -104,6 +104,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/anilnunnagopula/leetcode/tree/master/0148-sort-list) |
 | [0414-third-maximum-number](https://github.com/anilnunnagopula/leetcode/tree/master/0414-third-maximum-number) |
 | [3748-sort-matrix-by-diagonals](https://github.com/anilnunnagopula/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
@@ -114,6 +115,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/anilnunnagopula/leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/anilnunnagopula/leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/anilnunnagopula/leetcode/tree/master/0189-rotate-array) |
 | [0841-shortest-distance-to-a-character](https://github.com/anilnunnagopula/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 ## Number Theory
@@ -167,4 +169,16 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anilnunnagopula/leetcode/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/anilnunnagopula/leetcode/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/anilnunnagopula/leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/anilnunnagopula/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
