@@ -59,6 +59,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [0414-third-maximum-number](https://github.com/anilnunnagopula/leetcode/tree/master/0414-third-maximum-number) |
 | [0830-largest-triangle-area](https://github.com/anilnunnagopula/leetcode/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/anilnunnagopula/leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/anilnunnagopula/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anilnunnagopula/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anilnunnagopula/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anilnunnagopula/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -71,6 +72,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anilnunnagopula/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/anilnunnagopula/leetcode/tree/master/0409-longest-palindrome) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/anilnunnagopula/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anilnunnagopula/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/anilnunnagopula/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
@@ -84,6 +86,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [0657-robot-return-to-origin](https://github.com/anilnunnagopula/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0841-shortest-distance-to-a-character](https://github.com/anilnunnagopula/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1274-number-of-days-between-two-dates](https://github.com/anilnunnagopula/leetcode/tree/master/1274-number-of-days-between-two-dates) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/anilnunnagopula/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anilnunnagopula/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/anilnunnagopula/leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [2496-count-days-spent-together](https://github.com/anilnunnagopula/leetcode/tree/master/2496-count-days-spent-together) |
@@ -106,6 +109,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | ------- |
 | [0148-sort-list](https://github.com/anilnunnagopula/leetcode/tree/master/0148-sort-list) |
 | [0414-third-maximum-number](https://github.com/anilnunnagopula/leetcode/tree/master/0414-third-maximum-number) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/anilnunnagopula/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3748-sort-matrix-by-diagonals](https://github.com/anilnunnagopula/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
 |  |
