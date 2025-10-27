@@ -21,6 +21,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [1448-maximum-69-number](https://github.com/anilnunnagopula/leetcode/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/anilnunnagopula/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anilnunnagopula/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/anilnunnagopula/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/anilnunnagopula/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2496-count-days-spent-together](https://github.com/anilnunnagopula/leetcode/tree/master/2496-count-days-spent-together) |
 | [2507-number-of-common-factors](https://github.com/anilnunnagopula/leetcode/tree/master/2507-number-of-common-factors) |
@@ -63,6 +64,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anilnunnagopula/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anilnunnagopula/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anilnunnagopula/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/anilnunnagopula/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/anilnunnagopula/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anilnunnagopula/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/anilnunnagopula/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -89,6 +91,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anilnunnagopula/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anilnunnagopula/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/anilnunnagopula/leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/anilnunnagopula/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2496-count-days-spent-together](https://github.com/anilnunnagopula/leetcode/tree/master/2496-count-days-spent-together) |
 ## Sliding Window
 |  |
@@ -114,6 +117,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 ## Matrix
 |  |
 | ------- |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/anilnunnagopula/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3748-sort-matrix-by-diagonals](https://github.com/anilnunnagopula/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
