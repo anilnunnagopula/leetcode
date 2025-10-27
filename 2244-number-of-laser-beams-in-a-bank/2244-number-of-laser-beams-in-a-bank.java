@@ -13,10 +13,11 @@ class Solution {
         
         for(int i=0;i<bank.length;i++){
             int cur=cntOfOnesInRow(bank[i]);
-            ans+=(prev*cur);
+            
 
 
             if(cur>0){
+                ans+=(prev*cur);
                 prev=cntOfOnesInRow(bank[i]);
             }
         }
