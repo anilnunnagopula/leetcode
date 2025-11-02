@@ -66,6 +66,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anilnunnagopula/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anilnunnagopula/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/anilnunnagopula/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/anilnunnagopula/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/anilnunnagopula/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anilnunnagopula/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/anilnunnagopula/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -120,6 +121,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/anilnunnagopula/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/anilnunnagopula/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/anilnunnagopula/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
@@ -157,6 +159,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/anilnunnagopula/leetcode/tree/master/0657-robot-return-to-origin) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/anilnunnagopula/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Queue
 |  |
 | ------- |
