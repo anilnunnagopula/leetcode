@@ -70,6 +70,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [2432-number-of-zero-filled-subarrays](https://github.com/anilnunnagopula/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anilnunnagopula/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/anilnunnagopula/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/anilnunnagopula/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/anilnunnagopula/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anilnunnagopula/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anilnunnagopula/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/anilnunnagopula/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/anilnunnagopula/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [0239-sliding-window-maximum](https://github.com/anilnunnagopula/leetcode/tree/master/0239-sliding-window-maximum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anilnunnagopula/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anilnunnagopula/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/anilnunnagopula/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -199,6 +202,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anilnunnagopula/leetcode/tree/master/0239-sliding-window-maximum) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/anilnunnagopula/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Monotonic Queue
 |  |
 | ------- |
