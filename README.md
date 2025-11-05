@@ -45,6 +45,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [0619-biggest-single-number](https://github.com/anilnunnagopula/leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/anilnunnagopula/leetcode/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/anilnunnagopula/leetcode/tree/master/1258-article-views-i) |
+| [1338-queries-quality-and-percentage](https://github.com/anilnunnagopula/leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/anilnunnagopula/leetcode/tree/master/1390-average-selling-price) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/anilnunnagopula/leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/anilnunnagopula/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
