@@ -22,6 +22,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [1585-the-kth-factor-of-n](https://github.com/anilnunnagopula/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anilnunnagopula/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/anilnunnagopula/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/anilnunnagopula/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/anilnunnagopula/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2496-count-days-spent-together](https://github.com/anilnunnagopula/leetcode/tree/master/2496-count-days-spent-together) |
 | [2507-number-of-common-factors](https://github.com/anilnunnagopula/leetcode/tree/master/2507-number-of-common-factors) |
@@ -72,6 +73,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anilnunnagopula/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/anilnunnagopula/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/anilnunnagopula/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/anilnunnagopula/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/anilnunnagopula/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anilnunnagopula/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/anilnunnagopula/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -124,6 +126,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [0148-sort-list](https://github.com/anilnunnagopula/leetcode/tree/master/0148-sort-list) |
 | [0414-third-maximum-number](https://github.com/anilnunnagopula/leetcode/tree/master/0414-third-maximum-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anilnunnagopula/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/anilnunnagopula/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3748-sort-matrix-by-diagonals](https://github.com/anilnunnagopula/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
 |  |
@@ -142,6 +145,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/anilnunnagopula/leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/anilnunnagopula/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2507-number-of-common-factors](https://github.com/anilnunnagopula/leetcode/tree/master/2507-number-of-common-factors) |
 ## Prefix Sum
 |  |
@@ -207,6 +211,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anilnunnagopula/leetcode/tree/master/0239-sliding-window-maximum) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/anilnunnagopula/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/anilnunnagopula/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Monotonic Queue
 |  |
