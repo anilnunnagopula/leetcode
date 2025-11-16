@@ -61,6 +61,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anilnunnagopula/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/anilnunnagopula/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anilnunnagopula/leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/anilnunnagopula/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -125,6 +126,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anilnunnagopula/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/anilnunnagopula/leetcode/tree/master/0148-sort-list) |
 | [0414-third-maximum-number](https://github.com/anilnunnagopula/leetcode/tree/master/0414-third-maximum-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anilnunnagopula/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -139,6 +141,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anilnunnagopula/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/anilnunnagopula/leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/anilnunnagopula/leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/anilnunnagopula/leetcode/tree/master/0189-rotate-array) |
