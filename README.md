@@ -61,6 +61,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anilnunnagopula/leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/anilnunnagopula/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/anilnunnagopula/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anilnunnagopula/leetcode/tree/master/0189-rotate-array) |
@@ -85,6 +86,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anilnunnagopula/leetcode/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/anilnunnagopula/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/anilnunnagopula/leetcode/tree/master/0409-longest-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anilnunnagopula/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
