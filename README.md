@@ -74,6 +74,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [0414-third-maximum-number](https://github.com/anilnunnagopula/leetcode/tree/master/0414-third-maximum-number) |
 | [0830-largest-triangle-area](https://github.com/anilnunnagopula/leetcode/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/anilnunnagopula/leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/anilnunnagopula/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anilnunnagopula/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anilnunnagopula/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anilnunnagopula/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -215,6 +216,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | ------- |
 | [0090-subsets-ii](https://github.com/anilnunnagopula/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/anilnunnagopula/leetcode/tree/master/0136-single-number) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/anilnunnagopula/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Linked List
 |  |
 | ------- |
