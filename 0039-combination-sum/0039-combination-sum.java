@@ -21,9 +21,7 @@ class Solution {
         List<List<Integer>> l=new ArrayList<>();
         ArrayList<Integer> al=new ArrayList<>();
         int n=a.length;
-        // for(int i=0;i<n;i++){
-            recursiveHelper(l,al,n,target,a,0);
-        // }
+        recursiveHelper(l,al,n,target,a,0);
         return l;
     }
 }
