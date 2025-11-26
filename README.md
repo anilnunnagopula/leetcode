@@ -71,6 +71,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anilnunnagopula/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anilnunnagopula/leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/anilnunnagopula/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/anilnunnagopula/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/anilnunnagopula/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/anilnunnagopula/leetcode/tree/master/0414-third-maximum-number) |
 | [0830-largest-triangle-area](https://github.com/anilnunnagopula/leetcode/tree/master/0830-largest-triangle-area) |
@@ -126,6 +127,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anilnunnagopula/leetcode/tree/master/0022-generate-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/anilnunnagopula/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anilnunnagopula/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
@@ -179,6 +181,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anilnunnagopula/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/anilnunnagopula/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0400-nth-digit](https://github.com/anilnunnagopula/leetcode/tree/master/0400-nth-digit) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anilnunnagopula/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Recursion
