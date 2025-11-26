@@ -36,6 +36,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/anilnunnagopula/leetcode/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/anilnunnagopula/leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/anilnunnagopula/leetcode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/anilnunnagopula/leetcode/tree/master/0196-delete-duplicate-emails) |
