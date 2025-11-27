@@ -215,6 +215,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/anilnunnagopula/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/anilnunnagopula/leetcode/tree/master/0901-online-stock-span) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -255,4 +256,16 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anilnunnagopula/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+## Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/anilnunnagopula/leetcode/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/anilnunnagopula/leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/anilnunnagopula/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
