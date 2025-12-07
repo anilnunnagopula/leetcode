@@ -19,6 +19,7 @@ This repo auto-syncs all my accepted LeetCode submissions using the **LeetHub ex
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anilnunnagopula/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/anilnunnagopula/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/anilnunnagopula/leetcode/tree/master/1448-maximum-69-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/anilnunnagopula/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/anilnunnagopula/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anilnunnagopula/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anilnunnagopula/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
